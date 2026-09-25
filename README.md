@@ -20,7 +20,7 @@
 <tr>
 <td width="63%" valign="top">
 
-<img src="assets/terminal.svg" width="100%" alt="law@arch: i make games, bots, language tools, and whatever sounds fun. favorite: rust. os: linux and arch. reason: just because" />
+<img src="assets/terminal.svg" width="100%" alt="law@arch: i make games, bots, language tools, and whatever sounds fun. favorite: rust. os: linux and arch. discord: manhwamc" />
 
 i like making things and figuring out how they work
 
@@ -31,7 +31,6 @@ most of it lives on my pc. a few things end up here
 </td>
 <td width="37%" align="center" valign="middle">
 <a href="https://www.pinterest.com/pin/1082060248002849405/"><img src="assets/lain.jpg" width="300" alt="lain in front of a linux process list" /></a>
-<br><sub>one more thing to try</sub>
 </td>
 </tr>
 </table>
@@ -42,7 +41,6 @@ most of it lives on my pc. a few things end up here
 
 <img src="assets/stack.svg" width="100%" alt="rust, python, javascript, typescript, go, haskell, raku, html, css, linux, arch linux, git" />
 
-<p align="center"><sub>rust gets first pick. the rest depends on what i'm making</sub></p>
 
 <details>
 <summary>more of the stack</summary>
@@ -111,32 +109,62 @@ small tools that make the terminal a little more fun
 
 <br>
 
-<img src="assets/05-activity.svg" width="100%" alt="05 / leaving a trail" />
+<img src="assets/05-activity.svg" width="100%" alt="05 / contributions" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/snake.svg" />
-  <img src="assets/snake.svg" width="100%" alt="a snake eating my github contribution graph, updated daily" />
+  <img src="assets/snake.svg" width="100%" alt="my github contribution snake" />
 </picture>
-
-<p align="center"><sub>a little trail of things i've done here</sub></p>
 
 <br>
 
 <p align="center">
-<a href="https://www.pinterest.com/pin/370772981800705995/"><img src="assets/panda.gif" width="90" alt="a small pixel panda taking a break" /></a>
-<br><br>
-<b>probably making something</b>
-<br><sub>come hang out at <a href="https://discord.gg/shizuku">shizuku</a></sub>
+<a href="https://www.pinterest.com/pin/370772981800705995/"><img src="assets/snorlax.gif" width="90" alt="snorlax" /></a>
 </p>
 
-<img src="assets/footer.svg" width="100%" alt="thanks for stopping by / law" />
+<img src="assets/footer.svg" width="100%" alt="law" />
 
 <details>
 <summary>art and bits</summary>
 
-the lain image and panda are from the pins i picked: [lain](https://www.pinterest.com/pin/1082060248002849405/) · [panda](https://www.pinterest.com/pin/370772981800705995/)
+art: [lain](https://www.pinterest.com/pin/1082060248002849405/) · [snorlax](https://www.pinterest.com/pin/370772981800705995/)
 
-banner made for this profile with imagegen. the contribution snake uses [snk](https://github.com/Platane/snk)
+banner made with imagegen · snake by [snk](https://github.com/Platane/snk) · icons by [skill icons](https://github.com/tandpfun/skill-icons)
 
 </details>
+
+<h3>links</h3>
+
+<p>
+<a href="https://discord.gg/shizuku"><img src="assets/discord.svg" height="32" alt="shizuku on discord" /></a>
+<a href="https://www.tiktok.com/@manhwamc"><img src="assets/tiktok.svg" height="32" alt="tiktok @manhwamc" /></a>
+</p>
+
+<h3>languages and tools</h3>
+
+<p>
+<a href="https://rust-lang.org/"><img src="assets/icons/rust.svg" width="40" height="40" alt="rust" title="rust" /></a>
+<a href="https://www.python.org/"><img src="assets/icons/python.svg" width="40" height="40" alt="python" title="python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/js.svg" width="40" height="40" alt="javascript" title="javascript" /></a>
+<a href="https://www.typescriptlang.org/"><img src="assets/icons/ts.svg" width="40" height="40" alt="typescript" title="typescript" /></a>
+<a href="https://go.dev/"><img src="assets/icons/go.svg" width="40" height="40" alt="go" title="go" /></a>
+<a href="https://www.haskell.org/"><img src="assets/icons/haskell.svg" width="40" height="40" alt="haskell" title="haskell" /></a>
+<a href="https://raku.org/"><img src="assets/icons/raku.svg" width="40" height="40" alt="raku" title="raku" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/icons/html.svg" width="40" height="40" alt="html" title="html" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/css.svg" width="40" height="40" alt="css" title="css" /></a>
+<a href="https://www.kernel.org/"><img src="assets/icons/linux.svg" width="40" height="40" alt="linux" title="linux" /></a>
+<a href="https://archlinux.org/"><img src="assets/icons/arch.svg" width="40" height="40" alt="arch linux" title="arch linux" /></a>
+<a href="https://git-scm.com/"><img src="assets/icons/git.svg" width="40" height="40" alt="git" title="git" /></a>
+<a href="https://nodejs.org/"><img src="assets/icons/nodejs.svg" width="40" height="40" alt="node.js" title="node.js" /></a>
+<a href="https://expressjs.com/"><img src="assets/icons/express.svg" width="40" height="40" alt="express" title="express" /></a>
+<a href="https://threejs.org/"><img src="assets/icons/threejs.svg" width="40" height="40" alt="three.js" title="three.js" /></a>
+<a href="https://www.docker.com/"><img src="assets/icons/docker.svg" width="40" height="40" alt="docker" title="docker" /></a>
+<a href="https://sqlite.org/"><img src="assets/icons/sqlite.svg" width="40" height="40" alt="sqlite" title="sqlite" /></a>
+<a href="https://www.postgresql.org/"><img src="assets/icons/postgres.svg" width="40" height="40" alt="postgres" title="postgres" /></a>
+<a href="https://redis.io/"><img src="assets/icons/redis.svg" width="40" height="40" alt="redis" title="redis" /></a>
+<a href="https://www.gnu.org/software/bash/"><img src="assets/icons/bash.svg" width="40" height="40" alt="bash" title="bash" /></a>
+<a href="https://learn.microsoft.com/powershell/"><img src="assets/icons/powershell.svg" width="40" height="40" alt="powershell" title="powershell" /></a>
+<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="assets/icons/cs.svg" width="40" height="40" alt="c#" title="c#" /></a>
+<a href="https://dotnet.microsoft.com/"><img src="assets/icons/dotnet.svg" width="40" height="40" alt=".net" title=".net" /></a>
+</p>

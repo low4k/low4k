@@ -5,5 +5,5 @@
 <text x="24" y="78" fill="#d49a7d" font-size="17" >$ whoami</text><text x="24" y="107" fill="#eee9df" font-size="23" >law / low4k</text>
 <g class="a"><text x="24" y="147" fill="#a9a7a1" font-size="15" >favorite</text><text x="165" y="147" fill="#d49a7d" font-size="16" >rust</text></g>
 <g class="b"><text x="24" y="178" fill="#a9a7a1" font-size="15" >home</text><text x="165" y="178" fill="#eee9df" font-size="16" >linux + arch</text></g>
-<g class="c"><text x="24" y="209" fill="#a9a7a1" font-size="15" >reason</text><text x="165" y="209" fill="#eee9df" font-size="16" >just because</text></g>
-<text x="24" y="259" fill="#d49a7d" font-size="16" >$ make something</text><rect class="cursor" x="215" y="245" width="10" height="18" fill="#d49a7d"/></g></svg>
+<g class="c"><text x="24" y="209" fill="#a9a7a1" font-size="15" >discord</text><text x="165" y="209" fill="#eee9df" font-size="16" >manhwamc</text></g>
+<text x="24" y="259" fill="#d49a7d" font-size="16" >$ cargo run</text><rect class="cursor" x="143" y="245" width="10" height="18" fill="#d49a7d"/></g></svg>
